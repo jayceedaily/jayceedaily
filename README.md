@@ -1,9 +1,16 @@
-### Help Fight COVID-19
+### Help Fight COVID-19 at Home with [Folding@Home](https://foldingathome.org/)
+
+
+
+
+
 ![alt text](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Folding%40Home&query=credit&url=https%3A%2F%2Fstats.foldingathome.org%2Fapi%2Fdonor%2Fjayceedaily)
+
+
 
 <!--
 **jayceedaily/jayceedaily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![alt text](https://apps.foldingathome.org/awards?user=261866202&type=score)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
