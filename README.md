@@ -4,7 +4,7 @@
 
 
 
-![alt text](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Folding%40Home&query=credit&url=https%3A%2F%2Fstats.foldingathome.org%2Fapi%2Fdonor%2Fjayceedaily)
+![alt text](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Folding%40Home%20Score&query=credit&url=https%3A%2F%2Fstats.foldingathome.org%2Fapi%2Fdonor%2Fjayceedaily)
 
 
 
