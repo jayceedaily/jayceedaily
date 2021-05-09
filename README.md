@@ -1,10 +1,3 @@
-### Help Fight COVID-19 at Home with [Folding@Home](https://foldingathome.org/)
-
-
-
-
-
-![alt text](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Folding%40Home&query=credit&url=https%3A%2F%2Fstats.foldingathome.org%2Fapi%2Fdonor%2Fjayceedaily&prefix=Score%20)
 
 
 
